@@ -28,7 +28,7 @@ Su objetivo es centralizar la administración del gimnasio, brindando una experi
 - **Backend:** Python, Django
 - **Frontend:** HTML5, CSS3, JavaScript, HTMX, Tailwind CSS
 - **Base de datos:** PostgreSQL
-- **Control de versiones:** Git + GitHub
+- **Control de versiones:** Git + GitHub (SSH)
 - **Despliegue:** Docker
 
 ---
@@ -37,5 +37,5 @@ Su objetivo es centralizar la administración del gimnasio, brindando una experi
 
 ### 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/caf-fitcontrol.git
+git clone git@github.com:shiniluxor/caf-fitcontrol.git
 cd caf-fitcontrol
